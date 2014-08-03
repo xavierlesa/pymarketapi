@@ -6,7 +6,7 @@ Esta API pretende ser útil en escenarios no muy complejos, y tiene como fin ser
 transparente posible al momento de interactuar con MercadoPago.
 
 @author: Xavier Lesa <xavierlesa@gmail.com>
-@repo: https://github.com/
+@repo: https://github.com/ninjaotoko/pymarketapi
 
 
 Si aún no tenes una APP creada en mercadolibre podes ingresar a https://applications.mercadolibre.com.ar/list
